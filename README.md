@@ -15,7 +15,3 @@ Use the arrow keys to move the ship and the space bar to shoot. Your goal is to 
 https://docs.microsoft.com/en-us/windows/win32/opengl/glrecti - for how to draw rectangles with OpenGL
 
 https://stackoverflow.com/questions/2183270/what-is-the-easiest-way-to-print-text-to-screen-in-opengl - for printing text to the screen with OpenGl
-
-## Grading
-
-I feel that I deserve full points for this project, or close to. I satisfied all the requirements in a way that make sense (start button to start, keys to move and operate ship), my program has no errors and is well-documented, and I think the usability of the game is very high as I think it's a pretty fun game. 
