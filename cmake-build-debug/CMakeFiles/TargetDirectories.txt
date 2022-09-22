@@ -1,0 +1,3 @@
+/Users/larsjensen/Desktop/Sophomore Year/Second Semester/CS 120/StarFighter/cmake-build-debug/CMakeFiles/graphics.dir
+/Users/larsjensen/Desktop/Sophomore Year/Second Semester/CS 120/StarFighter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/larsjensen/Desktop/Sophomore Year/Second Semester/CS 120/StarFighter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

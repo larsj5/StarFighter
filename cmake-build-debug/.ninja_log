@@ -1,0 +1,12 @@
+# ninja log v5
+2	686	1663870449154094821	CMakeFiles/graphics.dir/circle.cpp.o	b633dac69ac88ea8
+3	775	1663870449243628592	CMakeFiles/graphics.dir/shape.cpp.o	83a11e242a9ff566
+2	906	1663870449374950211	CMakeFiles/graphics.dir/graphics.cpp.o	b4fff297d0bee9c0
+2	676	1663870449142828678	CMakeFiles/graphics.dir/Quad.cpp.o	8564cd3239ebf951
+3	792	1663870449261337912	CMakeFiles/graphics.dir/rect.cpp.o	6023d4097b597ee8
+1	682	1663870449151126919	CMakeFiles/graphics.dir/Button.cpp.o	b1ce330245b5f6cf
+0	9	0	clean	3c8e6cc385ee00ba
+1	899	1663872125114019430	CMakeFiles/graphics.dir/graphics.cpp.o	b4fff297d0bee9c0
+899	1036	1663872125257425060	graphics	a3d2ce2d5dc06408
+1	689	1663872170683034237	CMakeFiles/graphics.dir/graphics.cpp.o	b4fff297d0bee9c0
+690	816	1663872170811901445	graphics	a3d2ce2d5dc06408
