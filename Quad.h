@@ -10,6 +10,8 @@
 //    double blue;
 //};
 
+#include "shape.h"
+
 struct point {
     int x;
     int y;

@@ -3,6 +3,7 @@
 //
 #include "Quad.h"
 #include "graphics.h"
+#include "shape.h"
 
 Quad::Quad() {
     fill = {0, 0, 0};

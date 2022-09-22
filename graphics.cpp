@@ -1,11 +1,8 @@
 #include "graphics.h"
 #include "circle.h"
 #include "rect.h"
-#include "Quad.h"
 #include <time.h>
 #include "Button.h"
-#include "Button.cpp"
-#include "Quad.cpp"
 #include <iostream>
 #include <memory>
 #include <vector>
